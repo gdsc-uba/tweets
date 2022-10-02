@@ -37,7 +37,7 @@ Step 3: - Make your changes. Create a file(filename=`<your-githubusername.json>
 ```json
  {
     "Name": "Enter your name",
-    "URL": "Link to Tweet",
+    "URL": "Link to Tweet"
  }
  ```
 Step 4: Take a screenshot of the post and upload it in the `pictures` directory, It should saved with the same filename as above.
