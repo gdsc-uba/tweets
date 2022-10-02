@@ -2,6 +2,7 @@
 This is a repository concerning GDSC UBA Tweets.
 
 # 🎃 HacktoberFest 2022 🎃
+![hacktober email banner](https://i.ibb.co/0qG1XtZ/Email-Banners-Dark.png)
 
 If you came here for Hacktoberfest, you're in the right place 🦇️:
 
