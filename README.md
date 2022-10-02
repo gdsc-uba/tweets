@@ -10,7 +10,7 @@ Celebrate [Hacktoberfest](https://hacktoberfest.com/) by getting involved in the
 
 ## What is Hacktoberfest?
 
-[HacktoberFest](https://hacktoberfest.com/](https://hacktoberfest.com/) is digitalocean’s annual event that encourages people to contribute to open source throughout october. Much of modern tech infrastructure—including some of digitalocean’s own products—relies on open-source projects built and maintained by passionate people who often don’t have the staff or budgets to do much more than keep the project alive. HacktoberFest is all about giving back to those projects, sharpening skills, and celebrating all things open source, especially the people that make open source so special.
+[Hacktoberfest](https://hacktoberfest.com/) is digitalocean’s annual event that encourages people to contribute to open source throughout october. Much of modern tech infrastructure—including some of digitalocean’s own products—relies on open-source projects built and maintained by passionate people who often don’t have the staff or budgets to do much more than keep the project alive. HacktoberFest is all about giving back to those projects, sharpening skills, and celebrating all things open source, especially the people that make open source so special.
 
 
 This repository is open to all members of the GitHub community. Any member may contribute to this project without being a collaborator.
