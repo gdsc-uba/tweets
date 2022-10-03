@@ -52,5 +52,5 @@ Come back to our github repo here and do a pull request.
 
 ### Give us a star
 
-### Cheers 🍻 to all our contributors
+#### Cheers 🍻 to all our contributors
 ![contributors images](.CONTRIBUTORS.svg)
