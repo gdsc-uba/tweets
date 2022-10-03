@@ -49,3 +49,8 @@ Step 5: Commit the change made and push
     git push -u
 ```
 Come back to our github repo here and do a pull request.
+
+### Give us a star
+
+#### Cheers 🍻 to all our contributors
+![contributors images](./CONTRIBUTORS.svg)
