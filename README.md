@@ -43,10 +43,10 @@ Step 3: - Make your changes. Create a file(filename=`<your-githubusername.json>
 Step 4: Take a screenshot of the post and upload it in the `pictures` directory, It should saved with the same filename as above.
 
 Step 5: Commit the change made and push
-```
+```git
     git commit -am "feat: Added the favourite tweet of <username>"
 
-    git push -u
+    git push origin HEAD
 ```
 Come back to our github repo here and do a pull request.
 
